@@ -1,0 +1,35 @@
+/DELPHI_2002_069_CONF_603/d02-x01-y01      1.0   #  b quark fragmentation function f(xBweak)
+/DELPHI_2002_069_CONF_603/d05-x01-y01      1.0   #  Mean of b quark fragmentation function f(xBweak)
+/OPAL_1998_S3780481/d09-x01-y01      1.0   #  uds events mean charged multiplicity
+/OPAL_1998_S3780481/d09-x01-y02      1.0   #  c events mean charged multiplicity
+/OPAL_1998_S3780481/d09-x01-y03      1.0   #  b events mean charged multiplicity
+/OPAL_1998_S3780481/d09-x01-y04      1.0   #  all events mean charged multiplicity
+/PDG_HADRON_MULTIPLICITIES/d01-x01-y03      1.0   #  Pi+- multiplicity
+/PDG_HADRON_MULTIPLICITIES/d02-x01-y03      1.0   #  Pi0 multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d02-x01-y03      6.0   #  Pi0 multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d03-x01-y03      6.0   #  K+ multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d04-x01-y03      6.0   #  K0 multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d05-x01-y03      2.0   #  eta multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d06-x01-y03      1.0   #  eta'(958) multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d07-x01-y03      1.0   #  D+ multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d08-x01-y03      1.0   #  D0 multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d09-x01-y03      2.0   #  D+s multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d10-x01-y01      1.0   #  B+, B0d multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d11-x01-y01      1.0   #  B+u multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d12-x01-y01      2.0   #  B0s multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d15-x01-y03      9.0   #  rho(770)0 multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d16-x01-y01      9.0   #  rho(770)+ multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d17-x01-y02      9.0   #  omega(782) multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d18-x01-y03      2.0   #  K*(892)+ multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d19-x01-y03      2.0   #  K*(892)0 multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d20-x01-y03      1.0   #  phi(1020) multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d21-x01-y03      1.0   #  D*(2010)+ multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d23-x01-y02      1.0   #  D*s(2112)+ multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d24-x01-y01      1.0   #  B* multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d38-x01-y03      3.0   #  p multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d39-x01-y03      4.0   #  Lambda multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d40-x01-y02      2.0   #  Sigma0 multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d43-x01-y01      2.0   #  Sigma+- multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d44-x01-y03      1.0   #  Xi- multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d45-x01-y02      1.0   #  Delta(1232)++ multiplicity
+/PDG_HADRON_MULTIPLICITIES_RATIOS/d48-x01-y03      1.0   #  Sigma(1385)+- multiplicity
