@@ -1,0 +1,36 @@
+/DELPHI_1996_S3430090/d01-x01-y01      2.0   #  In-plane p_T in GeV w.r.t. thrust axes (charged)
+/DELPHI_1996_S3430090/d02-x01-y01      1.0   #  Out-of-plane p_T in GeV w.r.t. thrust axes (charged)
+/DELPHI_1996_S3430090/d03-x01-y01      2.0   #  In-plane p_T in GeV w.r.t. sphericity axes (charged)
+/DELPHI_1996_S3430090/d04-x01-y01      1.0   #  Out-of-plane p_T in GeV w.r.t. sphericity axes (charged)
+#/DELPHI_1996_S3430090/d05-x01-y01      1.0   #  Rapidity w.r.t. thrust axes, y_T (charged)
+#/DELPHI_1996_S3430090/d06-x01-y01      1.0   #  Rapidity w.r.t. sphericity axes, y_S (charged)
+/DELPHI_1996_S3430090/d07-x01-y01      3.0   #  Scaled momentum, x_p = |p|/|p_beam| (charged)
+/DELPHI_1996_S3430090/d08-x01-y01      3.0   #  Log of scaled momentum, log(1/x_p) (charged)
+/DELPHI_1996_S3430090/d09-x01-y01      1.0   #  Mean out-of-plane p_T in GeV w.r.t. thrust axes vs. x_p (charged)
+/DELPHI_1996_S3430090/d10-x01-y01      1.0   #  Mean p_T in GeV vs. x_p (charged)
+/DELPHI_1996_S3430090/d11-x01-y01      6.0   #  1-thrust, 1-T (charged)
+/DELPHI_1996_S3430090/d12-x01-y01      4.0   #  Thrust major, M (charged)
+/DELPHI_1996_S3430090/d13-x01-y01      4.0   #  Thrust minor, m (charged)
+/DELPHI_1996_S3430090/d14-x01-y01      1.0   #  Oblateness = M - m (charged)
+/DELPHI_1996_S3430090/d15-x01-y01      1.0   #  Sphericity, S (charged)
+/DELPHI_1996_S3430090/d16-x01-y01      1.0   #  Aplanarity, A (charged)
+/DELPHI_1996_S3430090/d17-x01-y01      1.0   #  Planarity, P (charged)
+/DELPHI_1996_S3430090/d18-x01-y01      1.0   #  C parameter (charged)
+/DELPHI_1996_S3430090/d19-x01-y01      4.0   #  D parameter (charged)
+/DELPHI_1996_S3430090/d33-x01-y01      1.0   #  Energy-energy correlation, EEC (charged)
+/DELPHI_1996_S3430090/d35-x01-y01      181.0   #  Mean charged multiplicity
+
+/DELPHI_2002_069_CONF_603/d02-x01-y01      2.0   #  b quark fragmentation function f(xBweak)
+/DELPHI_2002_069_CONF_603/d05-x01-y01      4.0   #  Mean of b quark fragmentation function f(xBweak)
+/OPAL_1998_S3780481/d09-x01-y01      10.0   #  uds events mean charged multiplicity
+/OPAL_1998_S3780481/d09-x01-y02      10.0   #  c events mean charged multiplicity
+/OPAL_1998_S3780481/d09-x01-y03      10.0   #  b events mean charged multiplicity
+#/OPAL_1998_S3780481/d09-x01-y04      60.0   #  all events mean charged multiplicity
+/OPAL_1998_S3780481/d01-x01-y01      1.0   #  uds events scaled momentum
+/OPAL_1998_S3780481/d02-x01-y01      1.0   #  c events scaled momentum
+/OPAL_1998_S3780481/d03-x01-y01      1.0   #  b events scaled momentum
+#/OPAL_1998_S3780481/d04-x01-y01      1.0   #  all events scaled momentum
+/OPAL_1998_S3780481/d05-x01-y01      1.0   #  uds events ln(1/xp)
+/OPAL_1998_S3780481/d06-x01-y01      1.0   #  c events ln(1/xp)
+/OPAL_1998_S3780481/d07-x01-y01      1.0   #  b events ln(1/xp)
+#/OPAL_1998_S3780481/d08-x01-y01      1.0   #  all events ln(1/xp)
